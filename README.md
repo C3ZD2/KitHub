@@ -1,12 +1,7 @@
-# 🧰 KitHub
-
-**KitHub**
-
----
 
 ## 🎯 What It Is
 
-I dont know what to put here LOL
+Scripthub
 ---
 
 ## 💡 Features
@@ -20,8 +15,7 @@ Scripthub
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- Prism.js (for syntax highlighting)
-
+- 
 ---
 
 ## 📄 License
@@ -45,4 +39,4 @@ By using this software, you agree to these terms. Violators may be subject to le
 
 Created and maintained by **C3Z**
 
-> GitHub: [https://github.com/C3ZD2/KitHub](https://github.com/C3ZD2/KitHub)
+> GitHub: [https://github.com/C3ZD2/](https://github.com/C3ZD2/)
